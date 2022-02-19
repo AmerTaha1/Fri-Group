@@ -1,0 +1,6 @@
+% Iron Feed	% Silica Feed	Starch Flow	Amina Flow	
+Ore Pulp Flow	Ore Pulp pH	Ore Pulp Density	
+Flotation Column 01 Air Flow	Flotation Column 04 Air Flow	
+Flotation Column 05 Air Flow	Flotation Column 01 Level	
+Flotation Column 02 Level	Flotation Column 03 Level	
+Flotation Column 05 Level	% Iron Concentrate
